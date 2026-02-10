@@ -1,3 +1,3 @@
 # Notas
 
-Este es mi primer repositorio 
+Este es mi Readme actual
