@@ -1,4 +1,4 @@
-funcion saludo() {
+const saludo = () => {
 
   return "Hola mundo";
 }
